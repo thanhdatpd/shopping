@@ -1,0 +1,26 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "keywords": [
+        "framework"
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.9.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "scripts": {
+       
+    }
+}
